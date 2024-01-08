@@ -7,8 +7,11 @@
 Это делает возможной печать на сербской кириллице на английской клавиатуре, ориентируясь визуально на совпадающие английские буквы, а так же позволяет легко переучиться на неё с английской раскладки тем, кто владеет слепым десятипальцевым методом.
 
 оригинальная сербская раскладка:
+
 ![оригинальная сербская раскладка](https://github.com/DenisVS/Russian-Layout-Inherited-from-Serbian/blob/main/images/sr_cyr.png?raw=true)
+
 оригинальная сербская раскладка Shift:
+
 ![оригинальная сербская раскладка Shift](https://github.com/DenisVS/Russian-Layout-Inherited-from-Serbian/blob/main/images/sr_cyr_Shft.png?raw=true)
 
 
@@ -29,9 +32,11 @@
 Знающим же американскую английскую надо дополнительно выучить особенности сербской раскладки.
 
 русская раскладка, унаследованная от сербской:
+
 ![русская раскладка, унаследованная от сербской](https://github.com/DenisVS/Russian-Layout-Inherited-from-Serbian/blob/main/images/ru_ih_sr.png?raw=true)
 
 русская раскладка, унаследованная от сербской Shift:
+
 ![русская раскладка, унаследованная от сербской Shift](https://github.com/DenisVS/Russian-Layout-Inherited-from-Serbian/blob/main/images/ru_ih_sr_Shift.png?raw=true)
 
 
